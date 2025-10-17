@@ -3,8 +3,8 @@
 Este projeto foi desenvolvido como parte da **Atividade de um Projeto de Inteligência Artificial**, atendendo a todos os requisitos propostos para o projeto.
 O trabalho consiste em **elaborar um texto e uma fábula narrativa sobre a evolução da IA**, utilizando ferramentas de **IA generativa (Python + API Gemini)**, além de gerar um **relatório técnico automatizado em PDF** via **Pandoc + XeLaTeX**.
 
----
 
+```
 ## 📁 Estrutura do Projeto
 
 📂 Inteligência Artificial
@@ -28,6 +28,8 @@ O trabalho consiste em **elaborar um texto e uma fábula narrativa sobre a evolu
  ┃ ┗ 📄 utils.py → Funções utilitárias (logs, leitura e escrita)
  ┣ 📄 .env → Variáveis de ambiente (API_KEY)
  ┗ 📄 Requirements.txt → Dependências do projeto
+```
+
 
 ## ⚙️ Instalação e Execução
 
