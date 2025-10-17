@@ -29,8 +29,6 @@ O trabalho consiste em **elaborar um texto e uma fábula narrativa sobre a evolu
  ┣ 📄 .env → Variáveis de ambiente (API_KEY)
  ┗ 📄 Requirements.txt → Dependências do projeto
 
----
-
 ## ⚙️ Instalação e Execução
 
 ### 🧩 1) Pré-requisitos
